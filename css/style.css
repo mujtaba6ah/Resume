@@ -1,0 +1,47 @@
+
+body{
+    background-color: #EFF5F5;
+}
+
+h1{
+    color: #497174;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EB6440;
+    width: 15%;
+    border-width: 5px;
+
+
+}
+h3{
+
+    color: #497174;
+}
+
+p{
+
+    color: darkcyan;
+}
+
+ol{
+    color: #3a3939;
+}
+
+ul{
+    color: #3a3939;
+}
+
+table{
+
+    color: #3a3939;
+}
+
+thead{
+    color: #3a3939;
+}
+label{
+    color: #3b3b3b;
+}
